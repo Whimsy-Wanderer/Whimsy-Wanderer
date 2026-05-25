@@ -1,3 +1,21 @@
+
+' '  i don't check bios, block if unwanted /  doesn't meet your critera.  , , 
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
   <img src="https://i.pinimg.com/736x/74/76/88/7476885140ef0160c6e3c5da6a6f85a0.jpg" alt="Story pin image"/>
 
 
