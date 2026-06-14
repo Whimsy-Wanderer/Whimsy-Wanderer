@@ -65,11 +65,8 @@
 <details>
   <summary>Xtra</summary>
   <ul>
-    <li>Rape jokes and or SA/SH jokes are too far !</li>
-    <li>Don't be transphobic !</li>
-    <li>I'm aware if anything i like is problematic, don't make a big deal!</li>
-    <li>Don't Attack me publicly! feel free to message me if needed</li>
-    <li>I don't reply to vents well, but i will listen ^_^</li>
+    <li>feel free to @ me on ur github even if idk u !!!</li>
+    <li>It's usually storming where i live so power outages are common !</li>
   </ul>
 </details>
 
