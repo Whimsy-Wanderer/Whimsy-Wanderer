@@ -42,10 +42,8 @@
   <summary>DNI</summary>
   <ul>
     <li>Basic Dni list!</li>
-    <li>Ppl who use "limbless hajime" !</li>
-    <li>23+</li>
-    <li>-13</li>
-    <li>*some* bsd fans</li>
+    <li>DazAku shippers !</li>
+    <li>I'll add more later!</li>
   </ul>
 </details>
 
@@ -55,9 +53,7 @@
   <ul>
     <li>Do Not Cover Unless friend!</li>
     <li>I don't Usually int first !</li>
-    <li>@ Docks .  @ Danganronpa area . @ island . @ empty corners of map</li>
-    <li>I block *most* countryhumans</li>
-    <li>Do not hump unless friend???</li>
+    <li>@ Docks .  @ Danganronpa area . @ island . @ empty corners of map !</li>
   </ul>
 </details>
 
@@ -65,8 +61,7 @@
 <details>
   <summary>Xtra</summary>
   <ul>
-    <li>feel free to @ me on ur github even if idk u !!!</li>
-    <li>It's usually storming where i live so power outages are common !</li>
+    <li>Sign my AtA plsss ! </li>
   </ul>
 </details>
 
