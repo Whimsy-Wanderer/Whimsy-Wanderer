@@ -65,6 +65,17 @@
   </ul>
 </details>
 
+<details>
+  <summary>Triggers</summary>
+  <ul>
+    <li>most of these are fandom targeted ! </li>
+    <li>Limbless Hajime ! </li>
+    <li>Powdered donuts ! </li>
+    <li> gen rape jokes ! </li>
+  </ul>
+</details>
+
+
 
 
 
