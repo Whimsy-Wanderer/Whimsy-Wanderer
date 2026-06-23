@@ -63,18 +63,10 @@
   <summary>Xtra</summary>
   <ul>
     <li>Sign my AtA plsss ! </li>
+    <li>Likely diagosis of Schizophrenia ! </li>
   </ul>
 </details>
 
-<details>
-  <summary>Triggers</summary>
-  <ul>
-    <li>most of these are fandom targeted ! </li>
-    <li>Limbless Hajime ! </li>
-    <li>Powdered donuts ! </li>
-    <li> gen rape jokes ! </li>
-  </ul>
-</details>
 
 
 
