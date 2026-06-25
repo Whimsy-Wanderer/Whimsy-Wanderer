@@ -68,6 +68,8 @@
 </details>
 
 
+$${\color{#C284BF}“I'm  \space tired \space already. \space After \space all, \space till \space the \space very \space end, \space I  \space never \space understood \space what \space I  \space was  \space born \space for..”}$$
+
 
 
 
