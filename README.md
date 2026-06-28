@@ -70,7 +70,7 @@
 
 $${\color{#C284BF}“I'm  \space tired \space already. \space After \space all, \space till \space the \space very \space end, \space I  \space never \space understood \space what \space I  \space was  \space born \space for..”}$$
 
-$${\color{#D1A3CE}Do  \space Not \space Roleplay. \space Kazuichi \space Souda \space Copinglink  \space /FictKin \space Doubles \space iwec \space or  \space dni \space at \space all ..}$$
+$${\color{#D1A3CE}Do  \space Not \space Roleplay. \space Kazuichi \space Souda \space Copinglink  \space /Kin \space Doubles \space iwec \space or  \space dni \space at \space all ..}$$
 
 
 
