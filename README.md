@@ -63,7 +63,6 @@
   <summary>Xtra</summary>
   <ul>
     <li>Sign my AtA plsss ! </li>
-    <li>Likely diagosis of Schizophrenia ! </li>
   </ul>
 </details>
 
