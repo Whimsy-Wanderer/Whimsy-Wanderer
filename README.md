@@ -73,7 +73,7 @@ $${\color{#D1A3CE}Do  \space Not \space Roleplay. \space Kazuichi \space Souda \
 
 
 
-BUMASS PONYTOWN BANNED ME
+# BUMASS PONYTOWN BANNED ME
 
 
 
